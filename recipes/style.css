@@ -1,0 +1,46 @@
+/* style.css */
+
+h1 {
+    color: greenyellow;
+    text-align: center;
+
+    font-size: 70px;
+    -webkit-text-stroke: 2px;
+    -webkit-text-stroke-color: darkcyan;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-transform: uppercase;
+}
+
+body {
+    background-image: url(../img/leaves.webp);
+    background-repeat:;
+}
+
+img {
+    border-radius: 10%;
+    border-color: darkcyan;
+    border-style: double;
+    border-width: 8px;
+    padding: inherit;
+    margin:auto;
+    display: block;
+
+}
+* {
+    font-family: "Courier New";
+    color: darkcyan;
+}
+
+.button {
+        width:85px;
+        height:29px;
+        background-color:yellowgreen;
+        color:darkcyan;
+        font-size:20px;
+        font-weight:bold;
+        border-color: black;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        border-radius: 7px;
+        overflow: hidden;
+        padding: 0px;
+    }

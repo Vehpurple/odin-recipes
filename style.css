@@ -1,0 +1,17 @@
+/* style.css */
+
+h1 {
+    color: greenyellow;
+    text-align: center;
+
+    font-size: 70px;
+    -webkit-text-stroke: 2px;
+    -webkit-text-stroke-color: darkcyan;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-transform: uppercase;
+}
+
+body {
+    background-image: url(./img/leaves.webp);
+    background-repeat:;
+}
